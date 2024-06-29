@@ -4,11 +4,17 @@ Este projeto tem o intuito de colocar em prática estilização CSS usando desde
 
 Este site foi desenvolvido durante os meus estudos no curso de CSS estilização da Origamid ®
 
+<br>
+<br>
+
 ## Interface
 
 <div align="center">
   <img src="img/logo.png" alt="Imagem do Projeto" width="900">
 </div>
+
+<br>
+<br>
 
 ## Sumário
 
@@ -19,6 +25,9 @@ Este site foi desenvolvido durante os meus estudos no curso de CSS estilização
 - [Explicação](#explicação)
 - [Como Usar](#como-usar)
 - [Autor](#autor)
+
+<br>
+<br>
 
 ## Tecnologias Utilizadas
 
@@ -31,11 +40,16 @@ Este site foi desenvolvido durante os meus estudos no curso de CSS estilização
   </div>
 </div>
 
+<br>
+<br>
+
 ## Status
 
 ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 <!-- -->
+<br>
+<br>
 
 ## Descrição
 
@@ -48,6 +62,8 @@ Este é um site estático, porém muito bonito e com grande imersão do usuário
 ## Explicação
 
 O projeto consiste em uma pasta img com as imagens do projeto, uma pasta css com os styles do projeto e um index.html principal da aplicação.
+<br>
+<br>
 
 ## Como Usar
 
