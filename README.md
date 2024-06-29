@@ -24,9 +24,6 @@ Este site foi desenvolvido durante os meus estudos no curso de CSS estilização
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/js.png" alt="Logo Linguagem" width="100"/>
-  </div>
-  <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
     <img src="img/html.png" alt="Logo Linguagem" width="100"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
